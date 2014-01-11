@@ -1,0 +1,16 @@
+#lmgtfy-1,
+#wrapper-lmgtfy-1
+  {list-style-image: url("chrome://lmgtfy/content/button-1.png");}
+
+
+    .lmgtfy                  
+        {-moz-image-region: rect( 52px 52px 52px  52px);}
+
+	    .lmgtfy:hover     
+	          {-moz-image-region: rect(52px 52px 52px  52px);}
+
+		        [iconsize="small"] .lmgtfy
+			        {-moz-image-region: rect( 52px 52px 52px 52px);}
+
+					[iconsize="small"] .lmgtfy:hover
+						  {-moz-image-region: rect(52px 52px 52px 52px);}

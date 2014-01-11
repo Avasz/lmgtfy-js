@@ -1,0 +1,6 @@
+content lmgtfy chrome/
+style chrome://global/content/customizeToolbar.xul chrome://lmgtfy/content/button.css
+
+# Firefox
+overlay	chrome://browser/content/browser.xul chrome://lmgtfy/content/button.xul
+
