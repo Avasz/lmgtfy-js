@@ -18,7 +18,7 @@
 
 									  <!-- button details -->
 									  <toolbarbutton id="lmgtfy-1"
-										    label="Custom"
+										    label="LMGTFY"
 										      tooltiptext="Returns LMGTFY Links"
 										        oncommand="lmgtfy[1]()"
 											  class="toolbarbutton-1 chromeclass-toolbar-additional lmgtfy"
