@@ -1,0 +1,7 @@
+Create a folder in extensions directory of your firefox profile directory by name lmgtfy@mozilla-nepal.org
+
+> Copy everything there
+> Open Firefox, it will ask if youw ant to install.
+> Say yes.
+> Restart firefox
+> Add the button in the firefox navbar via customiz. ( Right click the bar and click customize, you will find the button there, Drag it to the bar)
